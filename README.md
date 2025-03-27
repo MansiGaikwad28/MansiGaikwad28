@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @MansiGaikwad28
 - 👀 I’m interested in exploring and learning new skills
-- 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning data analytics
 
 <!---
 MansiGaikwad28/MansiGaikwad28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
